@@ -1,4 +1,4 @@
 # MusicTransformer
-Music Transformer capable of generating full song length music
 
-Inspired from: https://github.com/YatingMusic/compound-word-transformer
+[Paper](https://arxiv.org/pdf/2301.02385.pdf) - Music Transformer capable of generating full song length music
+
